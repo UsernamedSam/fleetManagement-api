@@ -1,0 +1,19 @@
+{
+  "name": "fleetmanagement",
+  "version": "1.0.0",
+  "description": "## Índice",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+  "start": "node src/index.js",
+  "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
